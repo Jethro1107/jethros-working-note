@@ -6,8 +6,4 @@ up:
 tags:
 links:
 # Hello
-```dataview
-list file.name
-from "pages"
-WHERE contains(file.name, "CPR")
-```
+Welcome
