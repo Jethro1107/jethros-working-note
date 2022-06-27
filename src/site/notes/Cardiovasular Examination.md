@@ -31,7 +31,7 @@ links:
 			-   When palpating the radial pulse bilaterally, check for radial-radial delay
 			-   Radial-femoral pulse should be assessed
 	- **Legs**
-	- When inspecting the legs, three things should be assessed:
+		- When inspecting the legs, three things should be assessed:
 		-  [[Pitting oedema|Pitting oedema]]
 		-  Signs of deep vein thrombosis
 		-  Signs of varicose veins
@@ -53,7 +53,7 @@ links:
 	- [[Jugular venous pressure#Clinical skills - Assessing the jugular venous pressure|Jugular venous pressure#Clinical skills - Assessing the jugular venous pressure]]
 
 - ### Precordial examination
-	- Precordial examination involves 3 components: 1) [[Cardiovasular Examination#^72ea87|Inspection]], 2) [[Cardiovasular Examination#^adb7b4|Palpation]] and 3) [[Cardiovasular Examination#^9668f7|#^9668f7]]
+	- Precordial examination involves 3 components: 1) [[Cardiovasular Examination#^72ea87|Inspection]], 2) [[Cardiovasular Examination#^adb7b4|Palpation]] and 3) [[Cardiovasular Examination#^9668f7|Auscultation]]
 	- **Inspection** ^72ea87
 		- Inspect for scars (in the axillary region and chest) or other chest wall deformities
 		- Inspect for any visible apex beat or abnormal impulses
