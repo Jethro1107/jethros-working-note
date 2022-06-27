@@ -48,7 +48,6 @@ links:
 	- **Brachial pulse**
 
 - ### Examination of the venous system/ Examination of the jugular venous pressure
-
 	- The [[Jugular venous pressure|Jugular venous pressure]] is assessed for its height and character.
 	- [[Jugular venous pressure#Clinical skills - Assessing the jugular venous pressure|Jugular venous pressure#Clinical skills - Assessing the jugular venous pressure]]
 
@@ -58,18 +57,18 @@ links:
 		- Inspect for scars (in the axillary region and chest) or other chest wall deformities
 		- Inspect for any visible apex beat or abnormal impulses
 	- **Palpation** ^adb7b4
-		- Palpate for the apex beat:
-		-   Normally, the apex beat is located at left 5th intercostal space, midclavicular line
-		-   The apex beat is a localised tapping, early systolic outward thrust
-		-   Abnormal character of apex beat
-		    -   Heaving (pressure overload) - a displaced, forceful, sustained impulse, usually seen in aortic stenosis and hypertension
-		    -   Thrusting (volume overload) - a diffuse, non-sustained impulse, common in mitral regurgitation and dilated cardiomyopathy
-		    -   Tapping
-		- Parasternal heave:
-		- Parasternal heave is palpated at lower left sternal border
-		- Normally, parasternal impulse is impalpable, but may be detected as a palpated in patients with severe right heart hypertrophy or severe left atrial dilatation (displacing the right ventricle anteriorly.
-		- Thrills:
-		- Assess for thrills in the four palpable areas, which are vibrations associated with heart murmurs
+		- **Palpate for the apex beat:**
+			-   Normally, the apex beat is located at left 5th intercostal space, midclavicular line
+			-   The apex beat is a localised tapping, early systolic outward thrust
+			-   Abnormal character of apex beat
+			    -   Heaving (pressure overload) - a displaced, forceful, sustained impulse, usually seen in aortic stenosis and hypertension
+			    -   Thrusting (volume overload) - a diffuse, non-sustained impulse, common in mitral regurgitation and dilated cardiomyopathy
+			    -   Tapping
+		- **Parasternal heave:**
+			- Parasternal heave is palpated at lower left sternal border
+			- Normally, parasternal impulse is impalpable, but may be detected as a palpated in patients with severe **right heart hypertrophy** or **severe left atrial dilatation** (displacing the right ventricle anteriorly).
+		- **Thrills:**
+			- Assess for thrills in the four palpable areas, which are vibrations associated with heart murmurs
 	- **Auscultation** ^9668f7
 		- Auscultation with diaphragm should be done for the mitral valve, tricuspid valve, pulmonary valve and aortic valve
 		- Mitral stenosis (auscultate cardiac apex with bell in left lateral position) - Low pitched, late diastolic murmur with an opening snap
@@ -78,9 +77,8 @@ links:
 		- [](https://www.youtube.com/watch?v=MzORJbyHTT0&ab_channel=Medzcool)[https://www.youtube.com/watch?v=MzORJbyHTT0&ab_channel=Medzcool](https://www.youtube.com/watch?v=MzORJbyHTT0&ab_channel=Medzcool)
 		- Aortic regurgitation (best heard in deep expiration position) - Early diastolic murmur, best heard at left parasternal border at 3rd/4th intercostal space
 		- [](https://www.youtube.com/watch?v=uZysrKXHJMM&ab_channel=Medzcool)[https://www.youtube.com/watch?v=uZysrKXHJMM&ab_channel=Medzcool](https://www.youtube.com/watch?v=uZysrKXHJMM&ab_channel=Medzcool)
-		- Aortic stenosis - Systolic click and systolic murmur which radiates to carotids (Auscultate for carotid bruits with bell), S2 is deminished
+		- Aortic stenosis - Systolic click and systolic murmur which **radiates to carotids and right lung apex** (Auscultate for carotid bruits with bell), S2 is deminished
 		 ^cc4a44
 		- [](https://www.youtube.com/watch?v=pgDWz1JybzE&ab_channel=Medzcool)[https://www.youtube.com/watch?v=pgDWz1JybzE&ab_channel=Medzcool](https://www.youtube.com/watch?v=pgDWz1JybzE&ab_channel=Medzcool)
 		- For mitral murmurs, turn the patient to a left lateral position
 		- For aortic murmurs, ask the patient to sit up and hold breath at expiration
-		- [[Hello|Hello]]
